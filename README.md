@@ -1,6 +1,6 @@
 # VPet
 
-[简体中文](./README.md) | [繁體中文](./README_zht.md) | English | [日本語](./README_ja.md)
+ English | [简体中文](./README_zh.md) | [繁體中文](./README_zht.md) | [日本語](./README_ja.md)
 
 ![Header](README.assets/%E4%B8%BB%E5%9B%BE.png)
 
